@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on YouTube 
 - 📫 How to reach me - View my YouTube channel 
 - YouTube channel link - https://youtube.com/channel/UCR6YTj4WovwRr5Vt_IkUwOg
-- Subscribe,Like ans Share
+- Subscribe,Like and Share
 
 <!---
 NIMIT28/NIMIT28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
